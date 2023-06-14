@@ -1,0 +1,20 @@
+@font-face {
+   font-family: 'ClarendonForAVJennings';
+   font-display: swap;
+   src: url('ClarendonForAVJennings/font.woff');
+}
+@font-face {
+   font-family: 'gt-walsheim-medium-webfont';
+   font-display: swap;
+   src: url('gt-walsheim-medium-webfont/font.woff');
+}
+@font-face {
+   font-family: 'gt-walsheim-bold-webfont';
+   font-display: swap;
+   src: url('gt-walsheim-bold-webfont/font.woff');
+}
+@font-face {
+   font-family: 'gt-walsheim-light-webfont';
+   font-display: swap;
+   src: url('gt-walsheim-light-webfont/font.woff');
+}
